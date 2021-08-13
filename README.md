@@ -13,7 +13,7 @@ Using a URL for GeoJSON earthquake data from the USGS website and retrieve geogr
 - Mapbox
 
 **Result**
-
+![picture](Earthquake_Challenge folder/images/street.png)
 ![](Earthquake_Challenge folder/images/street.png)
 
 ![](Earthquake_Challenge folder/images/sat.PNG)
