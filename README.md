@@ -1,4 +1,4 @@
-# Mapping_Earthquakes
+# Mapping Earthquakes
 
 **Project overview**
 
@@ -14,10 +14,10 @@ Using a URL for GeoJSON earthquake data from the USGS website and retrieve geogr
 
 **Result**
 
-![](images/street.png)
+![](Earthquake_Challenge folder/images/street.png)
 
-![](images/sat.PNG)
+![](Earthquake_Challenge folder/images/sat.PNG)
 
-![](images/dark.PNG)
+![](Earthquake_Challenge folder/images/dark.PNG)
 
 
