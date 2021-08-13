@@ -43,7 +43,7 @@ let majorEarthquakes = new L.LayerGroup();
 
 // 2. Add a reference to the major earthquake group to the overlays object.
 let overlays = {
-  "Tectonic Plates": tectonicplates,
+  "Tectonic Plates": tectonicPlates,
   "Earthquakes": allEarthquakes,
   "Major Earthquakes": majorEarthquakes
 };
@@ -213,10 +213,11 @@ legend.onAdd = function() {
 
   // Here we make an AJAX call to get our Tectonic Plate geoJSON data.
   d3.json("https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json").then(function(platedata) {
-       // Creating a GeoJSON layer with the Tectonic Plate data
+      // Adding our geoJSON data, along with style information, to the tectonicplates
+      // layer.
       L.geoJson(platedata,
         //  {
-        // color: "darkorange",
+        // color: "#ff6500",
         // weight: 2
       // }
       )
