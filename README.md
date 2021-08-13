@@ -14,7 +14,7 @@ Using a URL for GeoJSON earthquake data from the USGS website and retrieve geogr
 
 **Result**
 
-![picture](Mapping_Earthquakes/Earthquake_Challenge folder/images/dark.PNG)
+![picture](https://github.com/Bayan-daux/Mapping_Earthquakes/blob/main/Earthquake_Challenge%20folder/images/dark.PNG)
 
 ![](Earthquake_Challenge folder/images/street.png)
 
